@@ -132,7 +132,10 @@
 
 **[담당 역할]**
 
-- 
+- Point Tracking 모델 개발
+- STT 모델 개발
+- Zoom-in / Zoom-out 알고리즘 개발
+- 보고서 작성
 
 <br/>
 
