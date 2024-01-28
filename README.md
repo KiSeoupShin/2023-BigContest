@@ -95,7 +95,7 @@
 
 - KeyPoint Detection (YoloV8, RPM Pose)
 - Object Tracking (CoTracker, Pips)
-- STT (SeamlessM$T, Whisper)
+- STT (SeamlessM4T, Whisper)
 
 ---
 
